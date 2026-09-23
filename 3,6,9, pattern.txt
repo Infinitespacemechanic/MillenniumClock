@@ -1,0 +1,16 @@
+(1) 1, 3, 6, 9, 12, … → continues as +3Full sequence (first + last method ready):
+1, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, … , 357, 360Last term = 360
+First term = 1
+Number of terms = 120
+Sum = n/2 × (first + last) = 120/2 × (1 + 360) = 60 × 361 = 21,660
+
+(2) 15, 18, 21, 24, … → +3Full sequence:
+15, 18, 21, 24, 27, … , 357, 360First = 15, Last = 360
+Number of terms = 116
+Sum = 116/2 × (15 + 360) = 58 × 375 = 21,750
+
+(3) 27, 30, 33, 36, … → +3Full sequence:
+27, 30, 33, 36, … , 357, 360First = 27, Last = 360
+Number of terms = 112
+Sum = 112/2 × (27 + 360) = 56 × 387 = 21,672
+
